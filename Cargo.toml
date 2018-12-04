@@ -1,7 +1,0 @@
-[package]
-name = "aoc2018"
-version = "0.1.0"
-authors = ["Tom Scott <tomscott87@gmail.com>"]
-
-[dependencies]
-regex = "1.1.0"
