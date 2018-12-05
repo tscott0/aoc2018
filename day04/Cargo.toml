@@ -1,0 +1,8 @@
+[package]
+name = "day04"
+version = "0.1.0"
+authors = ["Tom Scott <tomscott87@gmail.com>"]
+
+[dependencies]
+utilities = { path = "../utilities" }
+regex = "1.1.0"
