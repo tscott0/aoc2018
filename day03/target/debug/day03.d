@@ -1,1 +1,0 @@
-/home/tom/workspace/rust/aoc2018/aoc2018/day03/target/debug/day03: /home/tom/workspace/rust/aoc2018/aoc2018/day03/src/main.rs /home/tom/workspace/rust/aoc2018/aoc2018/day03/src/part_1.rs /home/tom/workspace/rust/aoc2018/aoc2018/day03/src/part_2.rs /home/tom/workspace/rust/aoc2018/aoc2018/utilities/src/lib.rs
